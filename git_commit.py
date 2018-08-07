@@ -1,6 +1,3 @@
-###########################################################################
-#  this class will automatically push to git when the python file is ran  #
-###########################################################################
 import subprocess as sp
 from datetime import date
 
